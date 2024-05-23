@@ -7,7 +7,5 @@ for num in arr:
         a = num
     elif num>b and num!=a:
         b = num
-
-
 print("First Largest Number: ",a)
 print("Second Largest Number: ",b)
